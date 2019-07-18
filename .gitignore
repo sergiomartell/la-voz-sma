@@ -1,0 +1,12 @@
+node_modules
+.idea
+.temp
+.sass-cache
+coverage
+dist
+*.swp
+*.swo
+*.log
+*.DS_Store
+users_file
+emilio-lncsyt-firebase-adminsdk-bg0a1-0d3c737cb1.json
